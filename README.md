@@ -1,2 +1,2 @@
-# hotelma
-It is for college's mini project
+# demo file
+It is for general purpose.
